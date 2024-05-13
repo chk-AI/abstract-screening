@@ -10,5 +10,5 @@ This project automates the process of conducting screening in systematic literat
 - **Analysis with AI:** Uses five different large language models to evaluate and select the best abstracts for the review.
 
 ## Prerequisites
-- Python 3.8+ (current code is written for GoogleColab)
+- Python (current code is written in Google Colab and does not require installation of Python)
 - API keys for OpenAI and Claude (available from respective websites).
